@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jasmine</h1>
-<h3 align="center"> Engineer by degree |  Designer by soul | </h3>
+<h3 align="center"> Engineer by degree |  Designer by soul </h3>
 
 
 - 🔭 I’m currently working on **Stitch Theory**
