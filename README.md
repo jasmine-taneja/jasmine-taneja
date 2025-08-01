@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **Supabase, Clerk, and Power BI while sharpening my C++/SQL skills**
 
-- 👯 I’m looking to collaborate on **Open to collaborate on creative coding projects, AI influencer workflows, and design-based startups**
-
-- 👨‍💻 All of my projects are available at [Portfolio coming soon: Product design, AI influencer, e-com, and placement-prep projects.](Portfolio coming soon: Product design, AI influencer, e-com, and placement-prep projects.)
+- 👯  **Open to collaborate on creative coding projects, AI influencer workflows, and design-based startups**
 
 - 📫 How to reach me **jasmine.taneja07@gmail.com**
 
