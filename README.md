@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jasmine</h1>
 <h3 align="center">🧠 Engineer by degree | 🎨 Designer by soul | 💥 Chaos by default |</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jasmine-taneja&label=Profile%20views&color=0e75b6&style=flat" alt="jasmine-taneja" /> </p>
 
 - 🔭 I’m currently working on **Stitch Theory**
 
