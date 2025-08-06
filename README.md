@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jasmine</h1>
+<img src="github-banner.png" alt="GitHub Banner" width="100%" />
+
 <h3 align="center"> Engineer by degree |  Designer by soul </h3>
 
 
