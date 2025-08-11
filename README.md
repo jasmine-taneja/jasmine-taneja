@@ -3,7 +3,7 @@
 <h3 align="center"> Engineer by degree |  Designer by soul </h3>
 
 
-- 🔭 I’m currently working on **Stitch Theory**
+- 🔭 I’m currently working on **Stitch Theory by Jas**
 
 - 🌱 I’m currently learning **Supabase, Clerk, and Power BI while sharpening my C++/SQL skills**
 
