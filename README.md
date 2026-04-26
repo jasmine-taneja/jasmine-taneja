@@ -29,13 +29,6 @@
 
 <br>
 
-<p align="center">
-  If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈  
-  <br><br>
-  <a href="https://www.buymeacoffee.com/x.s0he" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210" alt="x.s0he" >
-  </a>
-</p>
 
 ###
 <br>
